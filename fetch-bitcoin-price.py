@@ -29,7 +29,8 @@ def fetch_price_and_send(producer):
 	price, time = get_current_price(currency)
 	data = {
 		'price': price,
-		'last_trade_time': time
+		'last_trade_time': time,
+		'currency': currency
 	}
 	data = json.dumps(data)
 	logger.debug('retrieved bitcoin price %s', data)
