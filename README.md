@@ -16,11 +16,11 @@ Data Ingestion
 --------------
 
 -   Kafka: real time (good scalability, robustness)
-### 1/16 update: 
-- commit data producer. User can specify currency and fetch bitcoin price by running fetch-bitcoin-price.py. Bitcoin price will be sent to any kafka topic specified by user.
--   Code can be found here: [fetch-bitcoin-price.py](fetch-bitcoin-price.py)
--   screenshot:
-[](images/data-producer.png)
+### 1/16 update: commit data producer
+-  User can specify currency and fetch bitcoin price by running fetch-bitcoin-price.py. 
+-  Bitcoin price will be sent to any kafka topic specified by user.
+-  Code can be found here: [fetch-bitcoin-price.py](fetch-bitcoin-price.py). Screenshot:
+![](images/data-producer.png)
     
 
 Data Storage
