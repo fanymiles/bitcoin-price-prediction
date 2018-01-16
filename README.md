@@ -21,7 +21,7 @@ Data Ingestion
 -  Bitcoin price will be sent to any kafka topic specified by user.
 -  Code can be found here: [fetch-bitcoin-price.py](fetch-bitcoin-price.py). Screenshot:
 ![](images/data-producer.png)
-![](images/data-producer2.png)
+![](images/data-producer-2.png)
 
 Data Storage
 ------------
