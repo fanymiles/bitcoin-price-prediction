@@ -4,7 +4,7 @@ Bitcoin Price Prediction
 Introduction
 ------------
 
-A data pipeline predicting the Bitcoin price and sending the alert to subscribers.
+This is a data pipeline project that predicts the Bitcoin price, visualizes the trend, and proposes the sell/buy decisions. Ideally, we will implement the Lambda architecture using Spark, Mesos, Akka, Cassandra and Kafka (SMACK) stack and the front-end tool Node.js.
 
 Data Source
 -----------
