@@ -14,6 +14,6 @@
 - Specify bitcoin price currency by using currency short name letters. (eg. CNY, USD, EUR)
 
 ### Screenshot
-![](~/images/data-producer.png) 
-![](~/images/data-producer-2.png)
+![](bitcoin-price-prediction/images/data-producer.png) 
+![](bitcoin-price-prediction/images/data-producer-2.png)
 
