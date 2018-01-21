@@ -12,6 +12,7 @@
 
 ### Step 3: Specify Currency
 - Specify bitcoin price currency by using currency short name letters. (eg. CNY, USD, EUR)
+- The default currency is USD.
 
 ### Screenshot
 ![](images/data-producer.png) 
