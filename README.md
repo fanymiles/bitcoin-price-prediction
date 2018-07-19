@@ -1,4 +1,4 @@
-Bitcoin Price Prediction Platform *(ongoing)*
+Bitcoin Price Prediction Platform
 ================
 
 Introduction
